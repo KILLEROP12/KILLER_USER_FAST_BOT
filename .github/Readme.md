@@ -17,7 +17,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">𝐊𝐈𝐋𝐋𝐄𝐑_𝐔𝐒𝐄𝐑_𝐅𝐀𝐒𝐓_𝐁𝐎𝐓</h1>
 
-![20240201_185316](https://github.com/killerop12/KILLER_USER_FAST_BOT/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
+![https://graph.org/file/d41746e92e9118a934eda.jpg](https://github.com/killerop12/KILLER_USER_FAST_BOT/assets/156512147/0782c397-c94b-4676-8cf1-89d26257b41a)
 
 <p align="center">
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/stargazers"><img src="https://img.shields.io/github/stars/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
