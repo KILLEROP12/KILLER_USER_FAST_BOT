@@ -21,8 +21,8 @@
 
 <p align="center">
 <a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/stargazers"><img src="https://img.shields.io/github/stars/KILLEROP12/KILLER_USER_FAST_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/network/members"> <img src="https://img.shields.io/github/forks/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/Team-Japanese/Japanese-X-Userbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/network/members"> <img src="https://img.shields.io/github/forks/KILLEROP12/KILLER_USER_FAST_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://github.com/Team-Japanese/Japanese-X-Chatbot"> <img src="https://img.shields.io/github/repo-size/Team-Japanese/Japanese-X-Userbot?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/nobitaaaxd/Team-Japanese/Japanese-X-Userbot/commits/aboutnobitaaxd"> <img src="https://img.shields.io/github/last-commit/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
@@ -46,9 +46,9 @@
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
-𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒅𝒆𝒑𝒍𝒐𝒚 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖:
+𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒅𝒆𝒑𝒍𝒐𝒚 𝒌𝒊𝒍𝒍𝒆𝒓-𝑿-𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖:
 
-1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/Team-Japanese/Japanese-X-Userbot) :**
+1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/KILLEROP12/KILLER_USER_FAST_BOT) :**
     
 2. **𝑯𝒆𝒓𝒐𝒌𝒖 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝑳𝒐𝒈𝒊𝒏 :**
   
@@ -59,7 +59,7 @@
 4. **𝑭𝒊𝒍𝒍 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 :**
   
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Team-Japanese/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/KILLEROP12/KILLER_USER_FAST_BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 # 𝑫𝑰𝑺𝑪𝑳𝑨𝑰𝑴𝑬𝑹
@@ -82,17 +82,17 @@
 
 ```
 
-## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+## ꪮ᭙ꪀꫀ᥅ ﺃᦔ / ᧁ᥅ꪮꪊᜣ
 
-<p align="center"><a href="https://t.me/Japanese_Userbot_Support"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/KILER_OP_12"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
-<p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-
-
+<p align="center"><a href="https://t.me/KILLER_FIGHTER_CLUB"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 
 
-#### 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 [𝑬𝒗𝒆𝒓𝒚𝒐𝒏𝒆](https://github.com/Team-Japanese/Japanese-X-Userbot/graphs/contributors) 𝑾𝒉𝒐 𝑯𝒂𝒔 𝑯𝒆𝒍𝒑𝒆𝒅 𝑴𝒂𝒌𝒆 𝑻𝒉𝒊𝒔 𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝑨𝒘𝒆𝒔𝒐𝒎𝒆!
+
+
+#### 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝑻𝒐 [𝑬𝒗𝒆𝒓𝒚𝒐𝒏𝒆](https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/graphs/contributors) 𝑾𝒉𝒐 𝑯𝒂𝒔 𝑯𝒆𝒍𝒑𝒆𝒅 𝑴𝒂𝒌𝒆 𝑻𝒉𝒊𝒔 𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝑨𝒘𝒆𝒔𝒐𝒎𝒆!
 -  [PyroMan-Userbot](https://github.com/mrismanaziz/PyroMan-Userbot) : PyroMan-Userbot
 -  [Athphane Userbot](https://github.com/athphane/userbot) : Athphane Userbot
 -  [TeamDerUntergang](https://github.com/TeamDerUntergang/Telegram-SedenUserBot) : SedenUserBot
