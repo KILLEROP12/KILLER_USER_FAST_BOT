@@ -84,7 +84,7 @@
 
 ## ꪮ᭙ꪀꫀ᥅ ﺃᦔ / ᧁ᥅ꪮꪊᜣ
 
-<p align="center"><a href="https://t.me/KILER_OP_12"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/KILLER_OP_12"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 <p align="center"><a href="https://t.me/KILLER_FIGHTER_CLUB"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
