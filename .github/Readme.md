@@ -23,8 +23,8 @@
 <a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/stargazers"><img src="https://img.shields.io/github/stars/KILLEROP12/KILLER_USER_FAST_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/network/members"> <img src="https://img.shields.io/github/forks/KILLEROP12/KILLER_USER_FAST_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://github.com/Team-Japanese/Japanese-X-Chatbot"> <img src="https://img.shields.io/github/repo-size/Team-Japanese/Japanese-X-Userbot?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/nobitaaaxd/Team-Japanese/Japanese-X-Userbot/commits/aboutnobitaaxd"> <img src="https://img.shields.io/github/last-commit/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/KILLEROP12/KILLER_USER_FAST_BOT/KILLER_USER_FAST_BOT"> <img src="https://img.shields.io/github/repo-size/KILLEROP12/KILLER_USER_FAST_BOT?color=white&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/KILLEROP12/KILLEROP12/KILLER_USER_FAST_BOT/commits/KILLER_OP_12"> <img src="https://img.shields.io/github/last-commit/KILLEROP12/KILLER_USER_FAST_BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 
@@ -120,7 +120,7 @@
     ─「 𝑪𝒓𝒆𝒅𝒊𝒕 」─
 </h3>
 
-✧ <b>[𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaaxd) 
+✧ <b>[KILLER OP](https://github.com/KILLEROP12) 
 
 ✧ <b>[𝐌𝐈𝐑𝐙𝐀](https://github.com/MirzaElite) 
 
